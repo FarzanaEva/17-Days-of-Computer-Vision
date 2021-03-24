@@ -1,7 +1,6 @@
 # Face Detector
 This projects perform fast, accurate face detection with OpenCV using a pre-trained deep learning face detector model shipped with the library.
-- For face detection, Single Shot Detector (SSD) framework with a ResNet base network model is used.
-- 
+- For face detection, Single Shot Detector (SSD) framework with a ResNet base network model (Caffe based model) is used.
 
 <img src='image1_detect.jpg'>
 
