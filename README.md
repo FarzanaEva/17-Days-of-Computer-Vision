@@ -10,5 +10,5 @@ The 17-day computer vision and deep learning crash course is designed to give th
 * building real computer vision projects
 
 ### Course Content
- 1) Day 1 - Face Detector using deep learning model in opencv.
+ 1) Day 1 - [Face Detector](Day_1) with OpenCV using a pre-trained deep learning model.
  
